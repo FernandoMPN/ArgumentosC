@@ -1,8 +1,8 @@
 
-#Argumentos em C
-#####Padrão para leitura de argumentos utilizando a linguagem C.
+# Argumentos em C
+##### Padrão para leitura de argumentos utilizando a linguagem C.
 
-####Código base
+#### Código base
 
 Para ler os argumentos de um programa, é necessário adicionar dois parâmetros na *main* do seu código.
 
@@ -22,7 +22,7 @@ Para ler os argumentos de um programa, é necessário adicionar dois parâmetros
 
 >OBS: o parâmetro **char* argv[]** também pode ser substituído por **char* argv**
 
-###Exemplo de implementação
+### Exemplo de implementação
 
 Código que mostra a quantidade de argumentos inseridos e exibe cada um deles.
 
@@ -42,7 +42,7 @@ Código que mostra a quantidade de argumentos inseridos e exibe cada um deles.
 
 >Veja também a implementação de um outro tipo de programa que utiliza argumentos na sua execução em **nomecompleto.c**
 
-###Links úteis
+### Links úteis
 ____
 
 Alguns sites que abordam com mais detalhes o uso de argumentos em C
